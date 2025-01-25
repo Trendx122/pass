@@ -1,0 +1,19 @@
+/* Mengatur background halaman menjadi hitam dan teks putih */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Menambahkan gaya untuk teks */
+.container h1 {
+    color: white;
+    font-size: 4rem; /* Ukuran font besar */
+    margin: 0;
+}
+
